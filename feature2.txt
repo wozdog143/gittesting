@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 f2 added in master
+=======
+new feature 2 - part1
+>>>>>>> feature2
