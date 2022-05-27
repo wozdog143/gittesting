@@ -1,1 +1,2 @@
 new feature 2 - part1
+modified feature 2 before switching to master
