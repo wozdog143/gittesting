@@ -1,0 +1,1 @@
+new feature modification for v1 on new branch in detached head
